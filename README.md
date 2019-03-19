@@ -1,3 +1,7 @@
-## headeri 2
+# ohjelmistotekniikka, harjoitustyö
+## Tehtävät
 
-_kursivoitu teksti_ ja sitten vielä __boldattu__ teksti
+### Viikko 1
+[gitlog.txt](https://github.com/vrvkpp/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+[komentorivi.txt](https://github.com/vrvkpp/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt) 
+
