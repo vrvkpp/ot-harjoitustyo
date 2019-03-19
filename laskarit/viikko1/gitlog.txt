@@ -1,0 +1,38 @@
+commit 7b718ecd0839e0e591533df8236088e261f735b2 (HEAD -> master)
+Author: Vrv <virva.kauppinen@helsinki.fi>
+Date:   Mon Mar 18 19:46:24 2019 +0200
+
+    Saatiin harjoittelu loppuun
+
+ tiedostoja/file22.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 76565703c96bec4d683f4ef52ffa8cf0a885c2b8
+Author: Vrv <virva.kauppinen@helsinki.fi>
+Date:   Mon Mar 18 19:43:52 2019 +0200
+
+    muokattiin kolmosta
+
+ tiedostoja/file3.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 79edd6870ae0daaa55f70a3a9ef6c231f2a3a54a
+Author: Vrv <virva.kauppinen@helsinki.fi>
+Date:   Mon Mar 18 18:59:21 2019 +0200
+
+    Muokattiin ekaa ja kolmatta
+
+ eka.txt    | 3 +--
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 3 deletions(-)
+
+commit 9728507a6cdd265401fa5f4caeee305ea5d13243
+Author: Vrv <virva.kauppinen@helsinki.fi>
+Date:   Mon Mar 18 18:51:18 2019 +0200
+
+    uudelleen nimettii tiedosto
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+:
